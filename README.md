@@ -56,6 +56,14 @@ npm run dev
 
 You want to use this in your project? Here is how:
 
+First, setup your project. This repository used the following command
+
+```json
+npm create vite@latest react-deepkit --template react-ts
+```
+
+But it is up to you how you setup your project.
+
 ```sh
 npm install --save-dev @deepkit/type-compiler @deepkit/vite
 npm install @deepkit/injector @deepkit/type
