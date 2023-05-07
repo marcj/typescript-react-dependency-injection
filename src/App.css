@@ -17,6 +17,9 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.logo.deepkit:hover {
+  filter: drop-shadow(0 0 2em rgba(0, 128, 255, 0.71));
+}
 
 @keyframes logo-spin {
   from {
