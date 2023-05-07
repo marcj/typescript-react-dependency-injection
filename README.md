@@ -1,9 +1,16 @@
 # React + Deepkit + Vite
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
-    <img src="https://github.com/deepkit/deepkit-framework/raw/master/media/deepkit_logo.svg#gh-dark-mode-only" width="192" />
-    <img src=".https://github.com/deepkit/deepkit-framework/raw/master/media/deepkit_logo_dark.svg#gh-light-mode-only" width="192" />
+    <img src="./media/deepkit_logo.svg#gh-dark-mode-only" width="192" />
+    <img src="./media/deepkit_logo_dark.svg#gh-light-mode-only" width="192" />
 </div>
+<br/>
+<br/>
+<br/>
 
 For the first time, you can use full-featured Dependency Injection Container in React
 based on TypeScript types. No decorators, no magic strings, no extensive boilerplate.
